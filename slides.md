@@ -277,8 +277,3 @@ future React updates
 * [Async requests handling](https://www.clearpeople.com/blog/how-to-handle-asynchronous-requests-gracefully-in-react)
 * [Concurrent Mode in React](https://www.telerik.com/blogs/concurrent-mode-react)
 * [React.Suspense new features](https://blog.logrocket.com/react-suspense-data-fetching/)
-
-
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
