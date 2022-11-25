@@ -30,7 +30,7 @@ Aston Lab
 
 ### Event Loop
 
-<img src="images/eventloop.png" alt='Event loop image'/>
+<img src="img/eventloop.png" alt='Event loop image'/>
 
 <!--s-->
 
